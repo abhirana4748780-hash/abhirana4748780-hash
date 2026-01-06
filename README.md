@@ -66,8 +66,8 @@ Each project emphasizes **why a model is chosen**, not just how it’s implement
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/your-username
-- LinkedIn: https://www.linkedin.com/in/your-profile
+- GitHub: https://github.com/abhirana4748780-hash
+- LinkedIn: https://www.linkedin.com/in/abhinav-chauhan-92b995247/
 
 ---
 
