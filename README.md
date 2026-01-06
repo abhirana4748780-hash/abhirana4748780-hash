@@ -62,7 +62,7 @@ Each project emphasizes **why a model is chosen**, not just how it’s implement
 - Start simple, then improve
 - Write code that is readable and maintainable
 - Learn by building, not copying
-
+  
 ---
 
 ## 📫 Connect With Me
