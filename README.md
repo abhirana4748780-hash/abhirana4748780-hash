@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abhinav
+# 👋 Hi, I'm Abhinav Chauhan
 
 Data Scientist | Python | Machine Learning | SQL | C | C++ | Java | Web Development  
 
