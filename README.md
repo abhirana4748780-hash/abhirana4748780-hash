@@ -71,4 +71,5 @@ I care about **clean architecture, performance, and real-world impact**. I prefe
 
 | Stats | Streak | Languages |
 |------|--------|-----------|
-| <img src="https://github-readme-stats.vercel.app/api?username=abhirana4748780-hash&show_icons=true&count_private=true&include_all_commits=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" /> | <img src="https://streak-stats.demolab.com?user=abhirana4748780-hash&theme=dark&hide_border=true&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhirana4748780-hash&langs_count=6&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true" /> |
+| ![](https://github-readme-stats.vercel.app/api?username=abhirana4748780-hash&show_icons=true&include_all_commits=true&count_private=true&hide_border=true) | ![](https://streak-stats.demolab.com?user=abhirana4748780-hash&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhirana4748780-hash&layout=compact&langs_count=6&hide_border=true) |
+|
