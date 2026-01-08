@@ -69,7 +69,7 @@ I care about **clean architecture, performance, and real-world impact**. I prefe
 ---
 ### 📊 GitHub Activity
 
-| Stats | Streak | Languages |
-|------|--------|-----------|
-| ![](https://github-readme-stats.vercel.app/api?username=abhirana4748780-hash&show_icons=true&include_all_commits=true&count_private=true&hide_border=true) | ![](https://streak-stats.demolab.com?user=abhirana4748780-hash&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhirana4748780-hash&layout=compact&langs_count=6&hide_border=true) |
-|
+- Consistent contributions across machine learning and backend projects  
+- Focused on end-to-end systems, not vanity metrics  
+- Active development with real-world datasets and deployments
+
