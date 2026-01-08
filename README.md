@@ -1,75 +1,36 @@
-# 👋 Hi, I'm Abhinav Chauhan
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Abhinav Chauhan
+========================================================================================================================================
 
-Data Scientist | Python | Machine Learning | SQL | C | C++ | Java | Web Development  
+Computer Science Graduate | Web Developer | Machine Learning Enthusiast
+-----------------------------------------------------------------------
 
-I focus on building **practical, explainable solutions** using data and code — not just running notebooks.
-Currently strengthening fundamentals in **Python, Advanced Python, Machine Learning**, along with strong programming foundations across multiple languages.
+I’m a Computer Science graduate with hands-on experience in Python, SQL, C++, Java, and full-stack web development.
 
----
+I focus on building practical, scalable applications backed by clean backend logic and data-driven decision-making.
 
-## 🔍 What I Work On
-- Data analysis & preprocessing
-- Machine Learning (Regression & Classification)
-- Python scripting & automation
-- Backend logic & problem solving
-- Beginner-friendly projects that focus on fundamentals
+I’ve worked on end-to-end machine learning projects—from data preprocessing and feature engineering to model evaluation and deployment using Flask and AWS. My work includes interpretable ML systems, regression-based prediction models, and real-world web applications.
 
----
+I care about code quality, performance, and real impact—not buzzwords.
 
-## 🧠 Skills & Tools
+* 🌍  I'm based in India
+* ✉️  You can contact me at [abhinavrana4748780@gmail.com](mailto:abhinavrana4748780@gmail.com)
+* 🧠  I'm currently learning Advanced Machine Learning & Deep Learning Including CNNs, RNNs, TensorFlow, Keras, model optimization, and real-world ML deployment practices.
+* 👥  I'm looking to collaborate on Machine Learning, Backend, and Full-Stack Projects Especially projects involving real datasets, APIs, prediction systems, or performance-focused backend work.
+* 💬  Ask me about I value discipline, consistency, and shipping real projects over chasing trends.
 
-### **Programming Languages**
-- Python
-- C
-- C++
-- Java
-- SQL
-- HTML
-- CSS
-- JavaScript
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
+</p>
 
-### **Libraries & Frameworks**
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Flask (basic ML deployment)
+### Socials
 
-### **Machine Learning**
-- Linear Regression
-- Logistic Regression
-- Support Vector Machines (SVM)
-- Naive Bayes
-- Model Evaluation (Accuracy, Precision, Recall, ROC-AUC)
+<p align="left"> <a href="https://www.github.com/abhirana4748780-hash" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.threads.net/@rana_abhi_27" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a> <a href="https://www.linkedin.com/in/abhinav-chauhan-92b995247/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.twitch.tv/abhirana56" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Twitch" title="Twitch" /> </picture> </a> <a href="https://discord.com/users/abhirana80" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
+### Badges
 
----
+<b>My GitHub Stats</b>
 
-## 📂 Projects
-This repository includes:
-- Python fundamentals & advanced concepts
-- Data analysis notebooks
-- Machine Learning projects with real datasets
-- End-to-end workflows (EDA → Modeling → Evaluation)
-- Clean, readable, well-structured code
+<a href="http://www.github.com/abhirana4748780-hash"><img src="https://github-readme-stats.vercel.app/api?username=abhirana4748780-hash&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="abhirana4748780-hash's GitHub stats" /></a>
 
-Each project emphasizes **why a model is chosen**, not just how it’s implemented.
+<a href="http://www.github.com/abhirana4748780-hash"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhirana4748780-hash&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
----
-
-## 📈 Learning Philosophy
-- Understand the problem before the model
-- Start simple, then improve
-- Write code that is readable and maintainable
-- Learn by building, not copying
-  
----
-
-## 📫 Connect With Me
-- GitHub: https://github.com/abhirana4748780-hash
-- LinkedIn: https://www.linkedin.com/in/abhinav-chauhan-92b995247/
-
----
-
-⭐ If you find something useful here, feel free to star the repo.
-
+<a href="https://github.com/abhirana4748780-hash" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhirana4748780-hash&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
