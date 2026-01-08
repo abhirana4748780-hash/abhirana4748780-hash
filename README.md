@@ -69,7 +69,8 @@ I care about **clean architecture, performance, and real-world impact**. I prefe
 ---
 ### 📊 GitHub Activity
 
-- Consistent contributions across machine learning and backend projects  
-- Focused on end-to-end systems, not vanity metrics  
-- Active development with real-world datasets and deployments
+- Consistent contributions across machine learning and backend systems
+- Experience building end-to-end pipelines from data preprocessing to deployment
+- Hands-on work with real-world datasets, APIs, and production-style workflows
+
 
